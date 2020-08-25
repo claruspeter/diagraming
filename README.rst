@@ -8,8 +8,8 @@ Readme as an RST
   [sites]<>-poly_join(GwSpatialUnitId.CWAZ)[gw-zones],
   [sites]-kd_nearest(linear_nodes)[sw-zones],
 
-.. image::https://g.gravizo.com/svg?
-  digraph G {
+.. image:: https://g.gravizo.com/svg?
+  digraph%20G%20{
      main -> parse -> execute;
      main -> init;
      main -> cleanup;
