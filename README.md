@@ -10,6 +10,6 @@
 ```
 
 
-![ yuml.me ]( 
-    http://yuml.me/diagram/scruffy/class/[Customer]->[Address]
+![ yuml.me ](http://yuml.me/diagram/scruffy/class/[Customer]->[Address2sdfsdf]
+    "A Note"
 )
